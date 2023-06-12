@@ -21,6 +21,7 @@
 		<pkg.title>com.gouthi</pkg.title>
 		<pkg.version.string>0.0.1-SNAPSHOT</pkg.version.string>
 		<pkg.version>0.0.1-SNAPSHOT</pkg.version>
+		<sonar.host.url>http://172.31.44.195:9000/</sonar.host.url>
 		<pkg.description><!-- Give some description about this package --></pkg.description>
 
 		<!-- Dependency information -->
